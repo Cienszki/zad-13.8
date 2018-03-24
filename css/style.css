@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#carousel {
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+ul {
+  width: 1600px;
+  list-style-type: none;
+  padding: 0;
+}
+
+ul > li {
+  float: left;
+  list-style-type: none;
+}
+/*# sourceMappingURL=style.css.map */
